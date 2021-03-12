@@ -1,0 +1,36 @@
+a)What is Jupyter Notebook, Google Colab and Github. 
+GOOGLE COLLAB
+Google is quite aggressive in AI research. Over many years, Google developed AI framework called TensorFlow and a development tool called Colaboratory. Today TensorFlow is open-sourced and since 2017, Google made Colaboratory free for public use. Colaboratory is now known as Google Colab or simply Colab.
+
+Another attractive feature that Google offers to the developers is the use of GPU. Colab supports GPU and it is totally free. The reasons for making it free for public could be to make its software a standard in the academics for teaching machine learning and data science. It may also have a long term perspective of building a customer base for Google Cloud APIs which are sold per-use basis.
+
+Irrespective of the reasons, the introduction of Colab has eased the learning and development of machine learning applications.
+If you have used Jupyter notebook previously, you would quickly learn to use Google Colab. To be precise, Colab is a free Jupyter notebook environment that runs entirely in the cloud. Most importantly, it does not require a setup and the notebooks that you create can be simultaneously edited by your team members - just the way you edit documents in Google Docs. Colab supports many popular machine learning libraries which can be easily loaded in your notebook.
+
+What Colab Offers You?
+As a programmer, you can perform the following using Google Colab.
+
+Write and execute code in Python
+
+Document your code that supports mathematical equations
+
+Create/Upload/Share notebooks
+
+Import/Save notebooks from/to Google Drive
+
+Import/Publish notebooks from GitHub
+
+Import external datasets e.g. from Kaggle
+
+Integrate PyTorch, TensorFlow, Keras, OpenCV
+
+Free Cloud service with free GPU
+JUPYTER NOTEBOOK
+The Jupyter Notebook App is a server-client application that allows editing and running notebook documents via a web browser. The Jupyter Notebook App can be executed on a local desktop requiring no internet access (as described in this document) or can be installed on a remote server and accessed through the internet.
+
+In addition to displaying/editing/running notebook documents, the Jupyter Notebook App has a “Dashboard” (Notebook Dashboard), a “control panel” showing local files and allowing to open notebook documents or shutting down their kernels.
+GITHUB
+GitHub offers its basic services free of charge. Its more advanced professional and enterprise services are commercial.Free GitHub accounts are commonly used to host open-source projects. As of January 2019, GitHub offers unlimited private repositories to all plans, including free accounts, but allowed only up to three collaborators per repository for free.Starting from April 15, 2020, the free plan allows unlimited collaborators, but restricts private repositories to 2,000 minutes of GitHub Actions per month. As of January 2020, GitHub reports having over 40 million usersand more than 190 million repositories (including at least 28 million public repositories), making it the largest host of source code in the world.
+b) Create a Github Account and repository for FDS
+To create a new repository, first log in to Github or register for a new account. Once logged in, click on the Create New button in the top-right corner of the screen, followed by the Repository link in the drop-down list that appears.
+The repository name and description can be anything you wish, and for this example "FDS" was used as the name. Leave the rest of the fields as they are / blank, and hit the Create new Repository button. You will be brought to a page displaying your new blank repository.
