@@ -1,2 +1,2 @@
-# MscIT-Sem-I-Journals
+# MscIT-Sem-I
 Practical Journals
