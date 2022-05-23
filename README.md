@@ -1,2 +1,2 @@
-# MscIT-Sem-I
-Practical Journals
+# Msc . IT - Semester 1
+Practical Journals & Presentations
